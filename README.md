@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Choudhari</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
