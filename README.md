@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nitin Choudhari</h1>
-<h3 align="center">Software Engineer specializing in GenAI · Agentic AI · RAG · LLMs</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinchoudhari&label=Profile%20views&color=0e75b6&style=flat" alt="nitinchoudhari" /> </p>
+<h1 align="center">Hi, I'm Nitin Choudhari</h1>
+<h3 align="center">Senior Software Developer specializing in GenAI · Agentic AI · RAG · LLMs</h3>
 
 ---
 
 ### About me
 
-I'm a Software Engineer at **LTIMindtree (Pune)** with 3+ years of experience, currently shipping production GenAI systems.
+I'm a Senior Software Developer at **LTIMindtree (Pune)** with 3+ years of experience, currently shipping production GenAI systems.
 
 - I designed and deployed a **multi-agent LLM system** (crewAI + LangChain + ChromaDB) at a Fortune 500 client — running across DEV, IMP, and PROD environments, used daily by developers, BAs, QA, and scrum masters to automate root-cause analysis on ServiceNow incidents.
 
