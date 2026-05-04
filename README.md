@@ -76,7 +76,7 @@ I'm a Software Engineer at **LTIMindtree (Pune)** with 3+ years of experience, c
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/nitin-choudhari" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="www.linkedin.com/in/nitin-choudhari" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://leetcode.com/nitinchoudhari444/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a></td>
     <td><a href="mailto:nitinchoudhari444@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a></td>
   </tr>
